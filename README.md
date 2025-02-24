@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dipen Shrestha 
 ###  Technology Enthusiast | Computer Engineer | Web Development | Graphics Designing 
-- 🌟 Skilled in PHP, React, HTML/CSS, JavaScript
+- 🌟 Skilled in C#, ASP.NET CORE, React, HTML/CSS, JavaScript
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 📫 To reach me: dipenchrestha111@gmail.com
 - 📫 Checkout my Portfolio: https://www.dipenshrestha00.com.np/
