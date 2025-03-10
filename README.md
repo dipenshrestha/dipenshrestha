@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Dipen Shrestha 
-###  Technology Enthusiast | Computer Engineer | ASP.NET CORE | .NET Developer
+###  Technology Enthusiast | Computer Engineer | .NET Developer | Graphics Designer
 - 🌟 Skilled in C#, ASP.NET CORE, Dapper ORM, React, HTML/CSS, JavaScript
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 📫 To reach me: dipenchrestha111@gmail.com
