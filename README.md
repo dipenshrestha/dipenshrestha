@@ -29,7 +29,6 @@
     ![dotnetCore](https://github.com/user-attachments/assets/5e12e08b-f21a-435a-abae-578ebb7e6d4f)
     ![dapper](https://github.com/user-attachments/assets/40ae4ac8-aed7-41bb-a364-5f0143b819dd)
     ![efcore](https://github.com/user-attachments/assets/6e50e8d4-6e47-49d8-9fd4-80673b78466f)
-
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" />
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" />
