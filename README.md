@@ -26,12 +26,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" />
+    ![dotnetCore](https://github.com/user-attachments/assets/5e12e08b-f21a-435a-abae-578ebb7e6d4f)
+    ![dapper](https://github.com/user-attachments/assets/40ae4ac8-aed7-41bb-a364-5f0143b819dd)
+    ![efcore](https://github.com/user-attachments/assets/6e50e8d4-6e47-49d8-9fd4-80673b78466f)
+
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" />
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="40" />
+    ![swagger](https://github.com/user-attachments/assets/b67e4e19-3871-412c-a4a0-ce9cfae9dd5c)
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
   </div>
 </div>
